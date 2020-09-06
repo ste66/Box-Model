@@ -1,0 +1,41 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width:965px;
+    margin:0 auto;
+}
+
+.header { 
+    height:80px;
+    margin-bottom:0px;
+    background-color: rebeccapurple;
+}
+
+.main-content {
+    width:690px;
+    height:450px;
+    background-color: red;
+    float:right;
+}
+
+.sidebar {
+    width:275px;
+    height:450px;
+    background-color: green;
+    float:left;
+}
+
+.clear {
+    clear:both;
+}
+
+.footer {
+    height:90px;
+    margin-top: 0px;
+    background-color: purple;
+}
